@@ -1,4 +1,7 @@
-support_library_21_demo
+Android Support Library demo 
 =======================
 
-RecyclerView, CardView and Palette demo
+Support Lib version 23.0.1
+
+RecyclerView, CardView and Palette examples
+
