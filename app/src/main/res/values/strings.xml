@@ -4,5 +4,6 @@
     <string name="app_name">RecyclerView Demo</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="your_wallpaper">Your wallpaper</string>
 
 </resources>
